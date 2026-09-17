@@ -1,0 +1,15 @@
+{
+  "id": "security",
+  "title": "网络安全",
+  "description": "适合想了解 CTF、Web 安全、渗透测试和系统安全的同学。",
+  "icon": "🛡️",
+  "nodes": [
+    { "id": "sec-linux", "title": "Linux", "description": "熟悉 Linux 基础命令、文件权限、进程和网络工具。", "stage": "入门" },
+    { "id": "sec-network", "title": "计算机网络", "description": "理解 IP、端口、协议、HTTP、DNS、TCP/UDP 等基础知识。", "stage": "基础" },
+    { "id": "sec-web", "title": "Web 基础", "description": "了解浏览器、前端、后端、接口和数据库的基本关系。", "stage": "基础" },
+    { "id": "sec-db", "title": "数据库基础", "description": "理解 SQL、表结构、查询和常见数据库操作。", "stage": "基础" },
+    { "id": "sec-web-security", "title": "Web 安全", "description": "了解 SQL 注入、XSS、CSRF、文件上传等常见漏洞。", "stage": "进阶" },
+    { "id": "sec-ctf", "title": "CTF 入门", "description": "了解 Web、Crypto、Reverse、Pwn、Misc 等 CTF 方向。", "stage": "实践" },
+    { "id": "sec-pentest", "title": "渗透测试基础", "description": "了解信息收集、漏洞验证、权限提升和报告编写的基本流程。", "stage": "实践" }
+  ]
+}

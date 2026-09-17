@@ -1,0 +1,14 @@
+{
+  "id": "frontend",
+  "title": "前端开发",
+  "description": "适合想做网页、管理系统、前端应用的同学。",
+  "icon": "🎨",
+  "nodes": [
+    { "id": "fe-html-css", "title": "HTML / CSS", "description": "能够写基本网页结构和样式。", "stage": "入门" },
+    { "id": "fe-js", "title": "JavaScript", "description": "理解变量、函数、DOM、事件和异步请求。", "stage": "入门" },
+    { "id": "fe-ts", "title": "TypeScript", "description": "理解类型标注、接口、泛型和基本工程写法。", "stage": "进阶" },
+    { "id": "fe-react", "title": "React / Vue", "description": "掌握至少一个主流前端框架。", "stage": "进阶" },
+    { "id": "fe-api", "title": "接口请求", "description": "会调用后端接口，理解 JSON、REST API 和状态处理。", "stage": "进阶" },
+    { "id": "fe-deploy", "title": "项目部署", "description": "能够把前端项目部署到 Vercel、Netlify 或服务器。", "stage": "实践" }
+  ]
+}

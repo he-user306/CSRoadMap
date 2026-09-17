@@ -1,0 +1,16 @@
+{
+  "id": "algorithm",
+  "title": "算法竞赛",
+  "description": "适合想打 ACM、蓝桥杯、程序设计竞赛的同学。",
+  "icon": "🏆",
+  "nodes": [
+    { "id": "algo-cpp", "title": "C++ 基础", "description": "掌握 C++ 基础语法、输入输出、函数和常用写法。", "stage": "入门" },
+    { "id": "algo-stl", "title": "STL", "description": "熟悉 vector、queue、stack、map、set、priority_queue 等容器。", "stage": "入门" },
+    { "id": "algo-complexity", "title": "复杂度分析", "description": "理解时间复杂度和空间复杂度，能估计算法能否通过。", "stage": "基础" },
+    { "id": "algo-ds", "title": "基础数据结构", "description": "掌握数组、链表、栈、队列、树、堆、并查集等结构。", "stage": "基础" },
+    { "id": "algo-search", "title": "搜索", "description": "理解 DFS、BFS、回溯和常见搜索剪枝思路。", "stage": "进阶" },
+    { "id": "algo-dp", "title": "动态规划", "description": "理解状态定义、状态转移和常见 DP 类型。", "stage": "进阶" },
+    { "id": "algo-graph", "title": "图论", "description": "掌握最短路、最小生成树、拓扑排序等基础图算法。", "stage": "进阶" },
+    { "id": "algo-training", "title": "竞赛训练", "description": "通过题单、比赛和复盘持续提升算法能力。", "stage": "实践" }
+  ]
+}

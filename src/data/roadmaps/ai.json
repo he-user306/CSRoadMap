@@ -1,0 +1,16 @@
+{
+  "id": "ai",
+  "title": "人工智能",
+  "description": "适合想学习机器学习、深度学习、大模型和计算机视觉的同学。",
+  "icon": "🤖",
+  "nodes": [
+    { "id": "ai-python", "title": "Python", "description": "掌握 Python 基础语法、函数、类和常用包管理方式。", "stage": "入门" },
+    { "id": "ai-numpy", "title": "NumPy / Pandas", "description": "能够进行数组计算、表格数据处理和基础数据分析。", "stage": "入门" },
+    { "id": "ai-math", "title": "数学基础", "description": "了解线性代数、概率统计和微积分中的常用概念。", "stage": "基础" },
+    { "id": "ai-ml", "title": "机器学习", "description": "理解分类、回归、聚类、训练集、测试集和过拟合等概念。", "stage": "进阶" },
+    { "id": "ai-pytorch", "title": "PyTorch", "description": "能够使用 PyTorch 搭建、训练和保存简单神经网络。", "stage": "进阶" },
+    { "id": "ai-dl", "title": "深度学习", "description": "理解神经网络、CNN、Transformer、损失函数和优化器。", "stage": "进阶" },
+    { "id": "ai-cv-nlp", "title": "CV / NLP / 大模型", "description": "选择计算机视觉、自然语言处理或大模型方向继续深入。", "stage": "方向" },
+    { "id": "ai-deploy", "title": "模型部署", "description": "了解模型推理、API 服务、GPU 环境和基础部署流程。", "stage": "实践" }
+  ]
+}

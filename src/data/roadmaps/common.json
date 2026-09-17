@@ -1,0 +1,18 @@
+{
+  "id": "common",
+  "title": "通用基础",
+  "description": "适合所有计算机方向新生的基础路线。",
+  "icon": "📖",
+  "nodes": [
+    { "id": "common-cs-intro", "title": "计算机专业认知", "description": "了解计算机专业大概要学什么，以及常见的发展方向。", "stage": "大一上" },
+    { "id": "common-search", "title": "搜索与提问能力", "description": "学会使用搜索引擎、官方文档、GitHub 和 AI 工具解决问题。", "stage": "大一上" },
+    { "id": "common-markdown", "title": "Markdown", "description": "能够编写 README、实验报告和简单技术文档。", "stage": "大一上" },
+    { "id": "common-vscode", "title": "VS Code", "description": "熟悉编辑器、插件、终端和基本开发环境配置。", "stage": "大一上" },
+    { "id": "common-cli", "title": "命令行基础", "description": "理解终端、路径、文件操作和常见命令。", "stage": "大一上" },
+    { "id": "common-linux", "title": "Linux 基础", "description": "知道 Linux 是什么，能进行基本文件管理、软件安装和环境配置。", "stage": "大一下" },
+    { "id": "common-git", "title": "Git / GitHub", "description": "掌握版本控制、commit、branch、push 和 GitHub 项目协作基础。", "stage": "大一下" },
+    { "id": "common-programming", "title": "编程语言入门", "description": "至少掌握一门编程语言，例如 C、Python、Java 或 C++。", "stage": "大一" },
+    { "id": "common-ds", "title": "数据结构", "description": "理解数组、链表、栈、队列、树、图等基础结构。", "stage": "大二上" },
+    { "id": "common-network", "title": "计算机网络", "description": "理解 IP、端口、HTTP、DNS、TCP/UDP 等基础概念。", "stage": "大二" }
+  ]
+}

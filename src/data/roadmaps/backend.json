@@ -1,0 +1,15 @@
+{
+  "id": "backend",
+  "title": "后端开发",
+  "description": "适合想做服务器、接口、数据库和业务系统的同学。",
+  "icon": "⚙️",
+  "nodes": [
+    { "id": "be-language", "title": "后端语言", "description": "选择 Java、Go、Node.js、Python 等任意一门作为主力语言。", "stage": "入门" },
+    { "id": "be-http", "title": "HTTP / API", "description": "理解请求、响应、状态码、REST API 和接口设计。", "stage": "入门" },
+    { "id": "be-database", "title": "数据库", "description": "理解表、字段、SQL、索引和基础数据库设计。", "stage": "进阶" },
+    { "id": "be-framework", "title": "后端框架", "description": "掌握一个后端框架，例如 Spring Boot、Express、FastAPI 或 Gin。", "stage": "进阶" },
+    { "id": "be-auth", "title": "身份认证", "description": "理解登录、注册、Session、Token 和权限控制基础。", "stage": "进阶" },
+    { "id": "be-docker", "title": "Docker", "description": "能够使用 Docker 打包和运行后端服务。", "stage": "实践" },
+    { "id": "be-deploy", "title": "服务器部署", "description": "能够把后端服务部署到云服务器或实验室服务器。", "stage": "实践" }
+  ]
+}
