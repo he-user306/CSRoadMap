@@ -1,6 +1,6 @@
 # CS Roadmap
 
-给计算机新生使用的可视化学习路线图 MVP。
+给人工智能新生使用的可视化学习路线图 MVP。
 
 本项目的 UI 设计受 Minecraft 模组 **[FTB Quests](https://github.com/FTBTeam/FTB-Quests)** 启发，使用深色 Minecraft 风格主题与六边形任务节点布局。
 
